@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "candiates": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "firstname": "John",
+       "lastname": "Galt",
+       "phone": "123-456-7890"
     },
     {
       "id": 2,
